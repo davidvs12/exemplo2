@@ -1,2 +1,2 @@
 # exemplo2
-testes
+testes utilizando git e github
